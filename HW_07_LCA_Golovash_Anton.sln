@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HW_07_LCA_Golovash_Anton", "HW_07_LCA_Golovash_Anton\HW_07_LCA_Golovash_Anton.vcxproj", "{8EFCAE79-11E9-4EA9-A106-A247D5B9683F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EFCAE79-11E9-4EA9-A106-A247D5B9683F}.Debug|x64.ActiveCfg = Debug|x64
+		{8EFCAE79-11E9-4EA9-A106-A247D5B9683F}.Debug|x64.Build.0 = Debug|x64
+		{8EFCAE79-11E9-4EA9-A106-A247D5B9683F}.Debug|x86.ActiveCfg = Debug|Win32
+		{8EFCAE79-11E9-4EA9-A106-A247D5B9683F}.Debug|x86.Build.0 = Debug|Win32
+		{8EFCAE79-11E9-4EA9-A106-A247D5B9683F}.Release|x64.ActiveCfg = Release|x64
+		{8EFCAE79-11E9-4EA9-A106-A247D5B9683F}.Release|x64.Build.0 = Release|x64
+		{8EFCAE79-11E9-4EA9-A106-A247D5B9683F}.Release|x86.ActiveCfg = Release|Win32
+		{8EFCAE79-11E9-4EA9-A106-A247D5B9683F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D95D277-86F3-43AD-9E51-9C33BA310C4C}
+	EndGlobalSection
+EndGlobal
